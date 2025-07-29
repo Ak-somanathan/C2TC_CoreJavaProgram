@@ -1,3 +1,4 @@
+//Program to demonstrate data types 
 package com.tnsif.dayone;
 
 public class PrimitiveDataTypesDemo {

@@ -1,3 +1,4 @@
+//program to demonstrate char data type
 package com.tnsif.dayone;
 
 public class CharDemo {

@@ -1,7 +1,7 @@
+//Program to demonstrate decision making operators
 package com.tnsif.daytwo;
 
 public class DecisionMakingWithOperators {
-
 	public static void main(String[] args) {
 		int x = 8, y = 7;
 		int a = 10;
@@ -20,7 +20,5 @@ public class DecisionMakingWithOperators {
 		{
 			System.out.println("Condition is FALSE");
 		}
-
 	}
-
 }

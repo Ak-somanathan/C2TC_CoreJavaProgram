@@ -1,3 +1,4 @@
+//Program to demonstrate Switch case
 package com.tnsif.daytwo;
 
 

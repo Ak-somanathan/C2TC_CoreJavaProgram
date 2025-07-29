@@ -1,4 +1,7 @@
+//Program to demonstrate nested loops
 package com.tnsif.daytwo;
+
+
 
 public class NestedForLoopDemo {
 	public static void main(String[] args) {

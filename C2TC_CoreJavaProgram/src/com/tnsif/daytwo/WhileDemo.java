@@ -1,3 +1,4 @@
+//Program to demonstrate  while do loop
 package com.tnsif.daytwo;
 
 public class WhileDemo {

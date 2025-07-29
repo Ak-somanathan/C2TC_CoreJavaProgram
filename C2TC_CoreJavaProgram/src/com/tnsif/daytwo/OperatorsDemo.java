@@ -1,3 +1,4 @@
+//Program to demonstrate  different operators(ternary,airthmetic,pre/post incrementation/decrementation) in java
 package com.tnsif.daytwo;
 
 public class OperatorsDemo {
